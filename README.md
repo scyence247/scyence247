@@ -23,6 +23,7 @@
 
 
 **[The Rose Expose](https://github.com/yourusername/project2)** – Coming soon!
+
 ![The Rose Expose](https://mcusercontent.com/6f3a879df3321f9edcf92059d/images/cc5c219e-dd28-f8bd-fcff-ac18cfb788d2.jpg)  
 
 
