@@ -18,7 +18,7 @@
 
 ## 🚀 Projects & Talents (or the like)
 **[Computational modeling of human ovarian reserve and predicting age at menopause](https://www.biorxiv.org/content/10.1101/2025.03.27.645815v1)** 
-– My inidial dive into computational modeling!
+– 1st dive into computational modeling!
 ![Computational modeling of human ovarian reserve and predicting age at menopause](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdhaDd2eG15NGI3OXF6cjhjZHhzdmY0anFsdHBvaWU5eGlobjU3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5cb1siMuduzxEFOJLX/giphy.webp)  
 
 
