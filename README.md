@@ -1,6 +1,6 @@
 # Hiiii and welcome to Scyence 247 where we put the "why" in science!
 
-![Header GIF](https://giphy.com/gifs/pudgypenguins-confuse-confusing-modcheck-k3A6NdqTzudcux9pt6)
+![Header GIF](https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHpia2d4ZW9zYmg2bnZ4OTl4M2liYWp4cmZkdnZ2enQ2bWZhYng3YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k3A6NdqTzudcux9pt6/giphy.webp)
 
 ---
 
@@ -20,6 +20,8 @@
 **[Computational modeling of human ovarian reserve and predicting age at menopause](https://www.biorxiv.org/content/10.1101/2025.03.27.645815v1)** 
 – My inidial dive into computational modeling!
 ![Computational modeling of human ovarian reserve and predicting age at menopause](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdhaDd2eG15NGI3OXF6cjhjZHhzdmY0anFsdHBvaWU5eGlobjU3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5cb1siMuduzxEFOJLX/giphy.webp)  
+
+
 
 
 **[The Rose Expose](https://github.com/yourusername/project2)** – Coming soon!
