@@ -20,7 +20,7 @@
 ![Computational modeling of human ovarian reserve and predicting age at menopause](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWdhaDd2eG15NGI3OXF6cjhjZHhzdmY0anFsdHBvaWU5eGlobjU3MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5cb1siMuduzxEFOJLX/giphy.webp)  
 **(https://www.biorxiv.org/content/10.1101/2025.03.27.645815v1)** – One of my PhD projects on menopause age and chemical exposure. Coming to Github soon!
 
-!(https://mcusercontent.com/6f3a879df3321f9edcf92059d/images/cc5c219e-dd28-f8bd-fcff-ac18cfb788d2.jpg)  
+![The Rose Expose](https://mcusercontent.com/6f3a879df3321f9edcf92059d/images/cc5c219e-dd28-f8bd-fcff-ac18cfb788d2.jpg)  
 **[The Rose Expose](https://github.com/yourusername/project2)** – Coming soon!
 
 ---
